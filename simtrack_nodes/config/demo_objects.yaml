@@ -3,6 +3,11 @@ simtrack/model_names:
 - ros_groovy
 - ros_hydro
 - milk
+- milk_red
+- chips_brown
 - chips_green
-- instand_green
-- cornflaks
+- tiger
+- conflakes
+- kleenex
+- kleenex_yellow
+- orange
